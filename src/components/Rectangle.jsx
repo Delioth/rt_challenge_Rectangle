@@ -11,15 +11,6 @@ class Rectangle extends Component{
 		e.stopPropagation();
   	alert(this.props.header);
   }
-  getStyles(){
-		let style = {
-			borderColor:this.props.borderColor,
-			backgroundColor:this.props.fillColor
-		}
-		console.log(style);
-    return(style
-			);
-  }
 	render() {
   	return(
     	<div onClick={this.echoHeader} className="spacedRectangle" style={{borderColor:this.props.borderColor, backgroundColor:this.props.fillColor}}>
