@@ -1,0 +1,7 @@
+.spacedRectangle {
+  border-style: solid;
+  border-width: 1px;
+  margin: 3rem;
+  text-align: center;
+  padding: 2rem;
+}
