@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,iBACE,mBACA,iBACA,YACA,kBACA,YAAc","file":"static/css/main.0e5fbe90.css","sourcesContent":[".spacedRectangle {\r\n  border-style: solid;\r\n  border-width: 1px;\r\n  margin: 3rem;\r\n  text-align: center;\r\n  padding: 2rem;\r\n}\r\n\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
