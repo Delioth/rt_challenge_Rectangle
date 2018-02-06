@@ -5,7 +5,6 @@ class Rectangle extends Component{
 	constructor(props){
   	super(props);
     this.echoHeader = this.echoHeader.bind(this);
-    this.getStyles = this.getStyles.bind(this);
   }
   echoHeader(e){
 		e.stopPropagation();
